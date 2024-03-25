@@ -1,0 +1,14 @@
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\battl\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
