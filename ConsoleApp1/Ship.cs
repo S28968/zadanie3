@@ -116,7 +116,6 @@ public class Ship
     
 }
 
-[Serializable]
 class TooFullException : Exception
 {
     public TooFullException(){}
