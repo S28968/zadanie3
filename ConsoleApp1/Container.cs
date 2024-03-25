@@ -86,7 +86,6 @@ public class Container
     }
 }
 
-[Serializable]
 class OverfillException : Exception
 {
     public OverfillException(){}
