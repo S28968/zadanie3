@@ -51,7 +51,6 @@ public class ContainerSolid : Container
 
 }
 
-[Serializable]
 class TooColdException : Exception
 {
     public TooColdException(){}
