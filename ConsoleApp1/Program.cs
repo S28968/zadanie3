@@ -13,3 +13,5 @@ ContainerLiquid ContainerLiquid2 = new ContainerLiquid(1,1,1,1,1,true);
 ContainerLiquid2.RelaySN();
 ContainerGas ContainerGas = new ContainerGas(1,1,1,1,1,1);
 ContainerGas.RelaySN();
+Ship ship = new Ship(1, 20, 20);
+ship.LoadSingle(ContainerLiquid);

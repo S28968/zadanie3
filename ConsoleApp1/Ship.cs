@@ -29,16 +29,18 @@ public class Ship
 
     public void LoadSingle(Container cont)
     {
-        int newSize = Cargo.Length + 1;
-        if(newSize>maxSize)
-            throw new TooFullException();
-
         if (Cargo == null)
         {
             Container[] newCargo = { cont };
             this.Cargo = newCargo;
         }
-        else
+        
+        int newSize = Cargo.Length + 1;
+        if(newSize>maxSize)
+            throw new TooFullException();
+
+
+
         {
             Container[] temp = new Container[newSize];
             for (int i = 0; i < newSize; i++)
@@ -54,8 +56,8 @@ public class Ship
             }
 
             this.Cargo = temp;
-        }
 
+        }
     }
 
     public void LoadList(Container[] contList)
